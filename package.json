@@ -19,8 +19,5 @@
     "name": "Dhruv Bhasin",
     "email": "bhasindhruv11797@gmail.com",
     "url": "https://github.com/bhasindhruv117"
-  },
-  "dependencies": {
-    "com.google.play.review": "1.8.4"
   }
 }
