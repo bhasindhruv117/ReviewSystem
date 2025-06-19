@@ -16,7 +16,7 @@ A generic wrapper for Google Play Review API that can be used across any Unity g
 ### Option 1: Unity Package Manager (Recommended)
 1. Open Unity Package Manager
 2. Click "+" and select "Add package from git URL"
-3. Enter: `https://github.com/your-username/unity-review-system.git`
+3. Enter: `https://github.com:bhasindhruv117/ReviewSystem.git`
 
 ### Option 2: Manual Installation
 1. Download this repository
@@ -180,6 +180,6 @@ Contributions welcome! Please read CONTRIBUTING.md for guidelines.
 
 ## Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/unity-review-system/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/your-username/unity-review-system/wiki)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/unity-review-system/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com:bhasindhruv117/ReviewSystem/issues)
+- 📖 **Documentation**: [Wiki](https://github.com:bhasindhruv117/ReviewSystem/wiki)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com:bhasindhruv117/ReviewSystem/discussions)
