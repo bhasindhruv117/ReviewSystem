@@ -1,5 +1,5 @@
 {
-  "name": "com.unity.review-system",
+  "name": "com.gamebros.review-system",
   "displayName": "Unity Review System",
   "version": "1.0.0",
   "description": "A generic wrapper for Google Play Review API that can be used across any Unity games",
@@ -21,6 +21,6 @@
     "url": "https://github.com/bhasindhruv117"
   },
   "dependencies": {
-    "com.google.play.review": "1.8.4"
+    "com.google.play.review": "1.8.0"
   }
 }
