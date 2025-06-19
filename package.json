@@ -1,0 +1,26 @@
+{
+  "name": "com.unity.review-system",
+  "displayName": "Unity Review System",
+  "version": "1.0.0",
+  "description": "A generic wrapper for Google Play Review API that can be used across any Unity games",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/your-username/unity-review-system",
+  "changelogUrl": "https://github.com/your-username/unity-review-system/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/your-username/unity-review-system/blob/main/LICENSE.md",
+  "keywords": [
+    "review",
+    "google play",
+    "rating",
+    "feedback",
+    "analytics"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://github.com/your-username"
+  },
+  "dependencies": {
+    "com.google.play.review": "1.8.0"
+  }
+}

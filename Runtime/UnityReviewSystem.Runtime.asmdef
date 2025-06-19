@@ -1,0 +1,17 @@
+{
+    "name": "UnityReviewSystem.Runtime",
+    "rootNamespace": "UnityReviewSystem",
+    "references": [
+        "Google.Play.Common",
+        "Google.Play.Review"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
